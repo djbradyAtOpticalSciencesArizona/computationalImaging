@@ -10,6 +10,8 @@
 % https://github.com/tomgoldstein/phasepack-matlab.git, must be in the path
 % to run this script
 %
+% this script uses data from snake.mat, which is posted in this directory on github.
+%
 % PhasePack by Rohan Chandra, Ziyuan Zhong, Justin Hontz, Val McCulloch,
 % Christoph Studer, & Tom Goldstein 
 % Copyright (c) University of Maryland, 2017
