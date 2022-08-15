@@ -1,6 +1,6 @@
 # Computational Imaging Codebase
 
-This repository includes notebooks support the textbook **Computational Imaging**
+This repository includes notebooks support the textbook **Computational Imaging and Computational Photography**
 
 
 Compuational Imaging is offered as course number 556 in Optical Sciences at the University of Arizona amd follows the topics in this text, which include
